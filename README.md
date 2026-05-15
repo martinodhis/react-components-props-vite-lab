@@ -104,4 +104,23 @@ A static personal blog built with React and Vite.
 1. Install dependencies:
    ```bash
    npm install
-   NPM run dev
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Open the site in your browser:
+   ```bash
+   http://localhost:5173
+   ```
+
+## Screenshots
+Add screenshots of the blog site here after you capture them.
+
+![Blog site screenshot 1](https://via.placeholder.com/600x400.png?text=Blog+Screenshot+1)
+![Blog site screenshot 2](https://via.placeholder.com/600x400.png?text=Blog+Screenshot+2)
+![Blog site screenshot 2](./screenshots/screenshot2.png)
+
+## Update README
+- Add clear instructions on how to run the project.
+- Include screenshots of the blog site.
