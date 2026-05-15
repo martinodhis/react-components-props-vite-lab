@@ -115,12 +115,5 @@ A static personal blog built with React and Vite.
    ```
 
 ## Screenshots
-Add screenshots of the blog site here after you capture them.
-
-![Blog site screenshot 1](https://via.placeholder.com/600x400.png?text=Blog+Screenshot+1)
-![Blog site screenshot 2](https://via.placeholder.com/600x400.png?text=Blog+Screenshot+2)
-![Blog site screenshot 2](./screenshots/screenshot2.png)
-
-## Update README
-- Add clear instructions on how to run the project.
-- Include screenshots of the blog site.
+![Screenshot](images/1(1).png)
+![Screenshot](images/1(2).png)
