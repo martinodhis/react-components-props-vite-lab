@@ -115,5 +115,5 @@ A static personal blog built with React and Vite.
    ```
 
 ## Screenshots
-![Screenshot](images/1(1).png)
-![Screenshot](images/1(2).png)
+![Description of image](images/screenshot.png)
+![Screenshot of image](images/screenshot1.png)
